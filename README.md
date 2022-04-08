@@ -1,1 +1,1 @@
-# evarugs
+# evarugs - study project
