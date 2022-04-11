@@ -1,5 +1,5 @@
 const modalWindow = document.querySelector('.modal');
-const buttonsModal = document.querySelectorAll('.button-play');
+const buttonsModal = document.querySelectorAll('.button-play__wrap');
 const iframe = document.querySelector('iframe')
 
 buttonsModal.forEach((item, i) => {
