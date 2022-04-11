@@ -160,6 +160,7 @@ input {
 
 .main-display {
     padding-top: 5rem;
+    margin-left: -2.4rem;
 }
 
 .main-display__trailer {
@@ -433,7 +434,7 @@ input {
     border-radius: 2rem;
     position: absolute;
     top: 10.7rem;
-    right: 2.5rem;
+    right: 5rem;
     cursor: pointer;
 }
 
