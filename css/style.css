@@ -226,6 +226,11 @@ input {
     z-index: 11;
 }
 
+.button-play__wrap:hover {
+    box-shadow: 0 0 1rem rgba(237, 234, 234, 0.7);
+  }
+
+
 .button-play {
     width: 0;
     height: 0;
