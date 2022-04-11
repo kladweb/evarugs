@@ -13,3 +13,4 @@ modalWindow.addEventListener('click', () => {
   document.querySelector('iframe').remove();
   document.querySelector('.modal__inner').append(iframe);
 });
+
